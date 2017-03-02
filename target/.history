@@ -1,3 +1,10 @@
 run
 :q
 exit
+compile
+exit
+compile
+run A B
+exit
+compile
+run
